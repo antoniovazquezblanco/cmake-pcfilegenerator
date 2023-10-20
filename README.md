@@ -1,6 +1,6 @@
 # CMake PC file generator
 
-This modules allows for automatic PC file generation for your targets.
+This modules allows for automatic PC file generation for your targets. That is untill CMake supports the feature (https://gitlab.kitware.com/cmake/cmake/-/issues/22621).
 
 
 ## Installation

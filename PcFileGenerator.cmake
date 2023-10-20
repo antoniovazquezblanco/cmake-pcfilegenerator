@@ -23,6 +23,9 @@ Custom functions
 
 #]=======================================================================]
 
+# GNUInstallDirs_get_absolute_install_dir <dirname> parameter was added in 3.20
+# https://cmake.org/cmake/help/latest/module/GNUInstallDirs.html#command:gnuinstalldirs_get_absolute_install_dir
+cmake_minimum_required(VERSION 3.20)
 
 include(GNUInstallDirs)
 
